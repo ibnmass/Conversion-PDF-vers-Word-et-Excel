@@ -7,7 +7,7 @@ Application de conversion PDF vers Word et Excel avec interface graphique Tkinte
 Cette application permet de convertir des fichiers PDF vers les formats Word (.docx) et Excel (.xlsx)
 en utilisant l'API REST Adobe PDF Services, avec une interface graphique conviviale.
 
-Auteur: Manus
+Auteur: Mass
 Date: 13 novembre 2025
 """
 
